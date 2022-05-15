@@ -14,6 +14,4 @@
 
 ![red Led ON](https://user-images.githubusercontent.com/100043455/168342521-246f9223-479e-44c7-8856-bc8c9d7986dc.png)
 
-## Wiper System-
 
-![wiper_system_](https://user-images.githubusercontent.com/100043455/168342601-06a6b182-6c66-4c05-a494-dc10c3214593.png)
