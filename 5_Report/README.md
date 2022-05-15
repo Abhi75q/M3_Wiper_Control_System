@@ -46,26 +46,12 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 ### WHO DISCOVERED WIPER SYSTEM-
 Mark Anderson invented on 1902.
 
-## Engine ON State-
-
-![image](https://user-images.githubusercontent.com/100043455/168341249-0825c138-ff89-42a8-a341-17ffa206106d.png)
-
-## Wiper Speed Is LOW-
-
-![image](https://user-images.githubusercontent.com/100043455/168341554-c16cef9a-cf05-48d2-bd25-9da47d0c3615.png)
-
-## Wiper Speed  Is MODERATE-
-
-![image](https://user-images.githubusercontent.com/100043455/168341652-4ad0e88b-035c-44eb-b279-79f79d2f0b0f.png)
-
-## Wiper Speed Is HIGH-
-
-![image](https://user-images.githubusercontent.com/100043455/168341697-e2c17483-8fb9-44ca-bb9c-1d763e923718.png)
-
 ## OFF State-
 
 ![image](https://user-images.githubusercontent.com/100043455/168341760-6bc740c3-2101-4c14-be31-bb0b24c4eb06.png)
 
+### IM FACING THE DEBUGGING ERROR 
 
+![ERROR](https://user-images.githubusercontent.com/100043455/168466373-79bc4dd5-e0c7-455f-ae1e-679eec28ae29.jpeg)
 
 
